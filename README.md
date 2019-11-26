@@ -4,7 +4,7 @@ Major tasks performed: <br>
 2. Data Visualisation using matplotlib and seaborn.
 3. Performed Feature Engineering for better prediction.
 4. Compared the results of Linear Regression, Random Forest and Boosting method. 
-Boosting is an ensemble method in machine learning in which multipe inceremental models are generated which learns by the mistakes of previous models and hence this moethod outperfomed both the linear and random forest model.
+Boosting is an ensemble method in machine learning in which multipe inceremental models are generated which learns by the mistakes of previous models and hence this method outperfomed both the linear and random forest model.
 
 <br>
 
