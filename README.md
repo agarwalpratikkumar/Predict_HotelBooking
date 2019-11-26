@@ -1,5 +1,10 @@
-# Trivago-test
-Hotel Booking Predtiction Model
+# Hotel Booking Predtiction
+Major tasks performed: <br>
+1. Performed EDA.
+2. Data Visualisation using matplotlib and seaborn.
+3. Performed Feature Engineering for better prediction.
+4. Trained a machine learning model which could predict the number of bookings of the hotel.
+
 
 <br>
 
